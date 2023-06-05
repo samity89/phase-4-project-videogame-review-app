@@ -2,8 +2,12 @@
 
 one:
   name: MyString
-  age: 1
+  developer: MyString
+  release_date: 2023-06-05
+  genre: MyString
 
 two:
   name: MyString
-  age: 1
+  developer: MyString
+  release_date: 2023-06-05
+  genre: MyString
